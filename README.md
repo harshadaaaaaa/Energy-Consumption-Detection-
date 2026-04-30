@@ -38,17 +38,20 @@ The dataset contains:
 
 ---
 
+
 ## 🚀 How to Run
 
 1. Install dependencies:
-```bash
+
+```
 pip install -r requirements.txt
+```
 
 2. Run the app:
 
+```
 streamlit run app.py
-
-
+```
 ---
 
 ## 👥 Team Members
